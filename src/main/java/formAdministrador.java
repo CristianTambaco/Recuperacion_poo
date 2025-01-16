@@ -13,4 +13,7 @@ public class formAdministrador {
     private JButton registrarButton1;
     private JList list1;
     private JList list2;
+
+
+
 }
